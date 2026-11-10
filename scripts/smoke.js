@@ -1,9 +1,9 @@
-import * as arxiv from './lib/sources/arxiv.js'
-import * as crossref from './lib/sources/crossref.js'
-import * as github from './lib/sources/github.js'
-import * as hn from './lib/sources/hn.js'
-import * as hf from './lib/sources/huggingface.js'
-import * as ph from './lib/sources/producthunt.js'
+import * as arxiv from '../lib/sources/arxiv.js'
+import * as crossref from '../lib/sources/crossref.js'
+import * as github from '../lib/sources/github.js'
+import * as hn from '../lib/sources/hn.js'
+import * as hf from '../lib/sources/huggingface.js'
+import * as ph from '../lib/sources/producthunt.js'
 
 const sources = [arxiv, crossref, github, hn, hf]
 for (const s of sources) {

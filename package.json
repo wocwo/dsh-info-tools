@@ -1,6 +1,6 @@
 {
   "name": "dsh-info-tools",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "跨领域前沿信息 + A股行情工具 for DeepSeek Harness: arXiv/Crossref/GitHub/HN/HuggingFace/ProductHunt + 行情公告",
   "keywords": [
     "dsh",
@@ -19,7 +19,8 @@
     "PLUGIN-DEV.md",
     "试用指南.md",
     "LICENSE",
-    "PUBLISH.md"
+    "PUBLISH.md",
+    "CHANGELOG.md"
   ],
   "license": "MIT",
   "dsh": {
@@ -37,5 +38,8 @@
   "homepage": "https://github.com/wocwo/chougenyan#readme",
   "bugs": {
     "url": "https://github.com/wocwo/chougenyan/issues"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js"
   }
 }

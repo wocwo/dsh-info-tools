@@ -101,7 +101,7 @@ dsh plugin --profile web add my-plugin
 
 调试顺序：
 
-1. **先脱离 DSH 测**：`node test.js` 直接跑数据层，别在会话里盲试；
+1. **先脱离 DSH 测**：`node scripts/smoke.js` 直接跑数据层，别在会话里盲试；
 2. `node --check lib/index.js` 查语法；
 3. 安装后看插件是否 `active`；
 4. 工具报错时，先看是不是网络（fetch failed 很常见）。
