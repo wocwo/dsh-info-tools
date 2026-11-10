@@ -1,7 +1,7 @@
 # 提交到 awesome-dsh-plugin 的条目模板
-# 路径：data/plugins/<你的GitHub用户名>__dsh-info-tools.yml
-url: https://github.com/<你的GitHub用户名>/dsh-info-tools
-name: <你的GitHub用户名>/dsh-info-tools
+# 路径：data/plugins/wocwo__chougenyan.yml
+url: https://github.com/wocwo/chougenyan
+name: wocwo/chougenyan
 category: tools
 description:
   en: "Cross-domain search and A-share data for DSH: arXiv, Crossref, GitHub, Hacker News, Hugging Face, Product Hunt, plus stock quotes, klines and announcements."
