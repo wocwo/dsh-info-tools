@@ -33,11 +33,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wocwo/chougenyan.git"
+    "url": "git+https://github.com/wocwo/dsh-info-tools.git"
   },
-  "homepage": "https://github.com/wocwo/chougenyan#readme",
+  "homepage": "https://github.com/wocwo/dsh-info-tools#readme",
   "bugs": {
-    "url": "https://github.com/wocwo/chougenyan/issues"
+    "url": "https://github.com/wocwo/dsh-info-tools/issues"
   },
   "scripts": {
     "test": "node --test test/*.test.js"

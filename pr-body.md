@@ -1,7 +1,7 @@
 ## 新增插件
 
-- 仓库：https://github.com/wocwo/chougenyan
-- 条目文件：`data/plugins/wocwo__chougenyan.yml`
+- 仓库：https://github.com/wocwo/dsh-info-tools
+- 条目文件：`data/plugins/wocwo__dsh-info-tools.yml`
 - 分类：`tools`
 
 ## 插件做什么
