@@ -1,0 +1,33 @@
+{
+  "name": "dsh-info-tools",
+  "version": "0.1.0",
+  "description": "跨领域前沿信息 + A股行情工具 for DeepSeek Harness: arXiv/Crossref/GitHub/HN/HuggingFace/ProductHunt + 行情公告",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "research",
+    "frontier",
+    "stock"
+  ],
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "README.md",
+    "PLUGIN-DEV.md",
+    "试用指南.md",
+    "LICENSE",
+    "PUBLISH.md"
+  ],
+  "license": "MIT",
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
