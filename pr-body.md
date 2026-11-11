@@ -20,4 +20,4 @@ DSH 的跨领域信息与 A 股工具，共 6 个工具、7 个数据源：
 - [x] 仓库根目录有 `cordis.patch.yml`
 - [x] 仓库创建满 1 天
 - [x] 已加 `dsh-plugin` topic
-- [x] npm 已发布 `dsh-info-tools@0.1.0`
+- [x] npm 已发布 `dsh-info-tools@0.2.0`
