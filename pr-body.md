@@ -6,9 +6,9 @@
 
 ## 插件做什么
 
-DSH 的跨领域信息与 A 股工具，共 6 个工具、7 个数据源：
+DSH 的跨领域信息与 A 股工具，共 7 个工具、7 个数据源：
 
-- `info_search` / `info_trending` / `info_sources`
+- `info_search` / `info_trending` / `info_brief` / `info_sources`
 - `stock_quote` / `stock_kline` / `stock_announcements`
 
 数据源：arXiv、Crossref、GitHub、Hacker News、Hugging Face、Product Hunt、东方财富。
